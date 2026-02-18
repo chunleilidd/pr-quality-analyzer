@@ -1,0 +1,16 @@
+{
+  "github_token": "ghp_your_token_here",
+  "repositories": [
+    "owner/repo1",
+    "owner/repo2"
+  ],
+  "team_members": [
+    "username1",
+    "username2",
+    "username3"
+  ],
+  "date_range_days": 30,
+  "exclude_bots": true,
+  "min_pr_size": 1,
+  "include_drafts": false
+}
